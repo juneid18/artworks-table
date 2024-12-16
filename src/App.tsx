@@ -121,6 +121,7 @@ const App = () => {
           }}
           dataKey="id"
           tableStyle={{ minWidth: "50rem" }}
+          selectionMode="multiple"
         >
           <Column
             selectionMode="multiple"
